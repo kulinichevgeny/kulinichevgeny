@@ -1,6 +1,6 @@
 # 𝙷𝚒, 𝙸'𝚖 𝚉𝚑𝚎𝚗𝚢𝚊 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" width="34x" align="top">
 
-<div style="height:330px">
+<div style="margin-bottom:365px">
 	<a href="https://github.com/kulinichevgeny">
   		<img align="right" alt="GIF" src="code.gif" width="auto" height="320px" />
 	</a>
