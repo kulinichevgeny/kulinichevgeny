@@ -1,4 +1,4 @@
-# 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚉𝚑𝚎𝚗𝚢𝚊 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" width="34x" align="top">
+# 𝙷𝚒, 𝙸'𝚖 𝚉𝚑𝚎𝚗𝚢𝚊 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" width="34x" align="top">
 
 <img align="right" alt="GIF" src="code.gif" width="auto" height="320px" />
 
@@ -12,4 +12,9 @@
 
 ---
 
-[![Zhenya's github stats](https://github-readme-stats.vercel.app/api?username=kulinichevgeny&theme=react&show_icons=true)](https://github.com/kulinichevgeny)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&theme=react" alt="Anurag's github stats" />
+</a>
+<a href="" style="float:right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&layout=compact&theme=react" />
+</a>
