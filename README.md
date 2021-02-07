@@ -20,5 +20,26 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react" height="170px" />
 </a>
 
+<br><br><br><br><br><br><br><br>
+
+---
+## Languages and tools
+
+<br>
+
+<img src="html-5.svg" width="50px" style="margin-right:20px">
+<img src="github.svg" width="50px" style="margin-right:20px">
+<img src="sass.svg" width="50px" style="margin-right:20px">
+<img src="iconfinder-icon (4).svg" width="50px" style="margin-right:20px">
+<img src="javascript.svg" width="50px" style="margin-right:20px">
+<img src="iconfinder_less_308443.svg" width="50px" style="">
+
+<style>
+	img:hover {
+		width:100px
+	}
+
+</style>
+
 <!-- https://igtype.onhype.site/ font№37 -->
 
