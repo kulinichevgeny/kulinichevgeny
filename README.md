@@ -35,10 +35,13 @@
 <img src="iconfinder_less_308443.svg" width="50px" style="">
 
 <style>
+	img {
+		transition: transform .2s linear;
+}
 	img:hover {
-		width:100px
+		width:100px;
+		transition: .2s linear;
 	}
-
 </style>
 
 <!-- https://igtype.onhype.site/ font№37 -->
