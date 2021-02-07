@@ -26,9 +26,9 @@
 
 ## 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬:
 
-<code><img height="40" src="img/html.svg"></code>
-<code><img height="40" src="img/css.svg"></code>
-<code><img height="40" src="img/git.svg"></code>
+<img height="40" src="img/html.svg">
+<img height="40" src="img/css.svg">
+<img height="40" src="img/git.svg">
 
 <!-- https://igtype.onhype.site/ font№37 -->
 
