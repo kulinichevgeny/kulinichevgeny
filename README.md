@@ -23,7 +23,6 @@
 <br><br><br><br><br><br><br>
 
 ---
-<br>
 
 ## 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬: <img height="40" src="img/html.svg" align="center"> <img height="40" src="img/css.svg" align="center"> <img height="40" src="img/git.svg" align="center"> <img height="35" src="img/less.svg" align="center">
 
