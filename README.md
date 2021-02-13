@@ -12,12 +12,12 @@
 ---
 
 <a href="https://github.com/kulinichevgeny">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&theme=react" alt="Anurag's github stats" height="170px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&theme=react" alt="Anurag's github stats" height="160px"/>
 </a>
 
 <!-- add &layout=compact when it will be a lot of langs -->
 <a href="https://github.com/kulinichevgeny" style="float:right"> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react" height="170px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact" height="160px"/>
 </a>
 
 <!-- ## 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬: <img height="40" src="img/html.svg" align="center"> <img height="40" src="img/css.svg" align="center">  <img height="40" src="img/git.svg" align="center"> -->
