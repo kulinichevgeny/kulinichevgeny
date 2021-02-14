@@ -20,10 +20,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact" height="160px"/>
 </a>
 
-<br><br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br><br>
 
 ---
-### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬: <img height="30" src="img/html.svg" align="center"> <img height="30" src="img/css.svg" align="center"> <img height="30" src="img/git.svg" align="center"> <img height="30" src="img/gitkraken.svg" align="center"> <img height="25" src="img/less.svg" align="center">
+### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬: <img height="30" src="img/html.svg" align="center"> <img height="30" src="img/css.svg" align="center"> <img height="30" src="img/git.svg" align="center"> <img height="30" src="img/gitkraken.svg" align="center"> <img height="25" src="img/less.svg" align="center"> -->
 
 
 <!-- https://igtype.onhype.site/ font№37 -->
