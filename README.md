@@ -7,7 +7,7 @@
   	<img align="left" alt="GIF" src="haiku.gif" width="auto" height="320px" />
 </a></p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 
