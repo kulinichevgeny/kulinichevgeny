@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/kulinichevgeny" style="float:right"> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact" height="155px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulinichevgeny&theme=react&layout=compact&langs_count=6" height="155px"/>
 </a>
 
 <!-- <br><br><br><br><br><br><br>
