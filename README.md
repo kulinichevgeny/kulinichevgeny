@@ -1,15 +1,15 @@
 # 𝐇𝐢, 𝐥𝐨𝐯𝐞𝐥𝐲 𝐭𝐨 𝐬𝐞𝐞 𝐲𝐨𝐮! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" width="34x" align="top">
 
-<!-- <a href="https://github.com/kulinichevgeny">
+<a href="https://github.com/kulinichevgeny">
   	<img align="right" alt="GIF" src="code.gif" width="auto" height="320px" />
-</a> -->
-<!-- <a href="https://github.com/kulinichevgeny">
+</a>
+<a href="https://github.com/kulinichevgeny">
   	<img align="left" alt="GIF" src="haiku.gif" width="auto" height="320px" />
-</a> -->
+</a>
 
-<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<!-- --- -->
+---
 
 <a href="https://github.com/kulinichevgeny">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kulinichevgeny&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="155px"/>
