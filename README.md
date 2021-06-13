@@ -1,4 +1,4 @@
-# 𝐇𝐢, 𝐥𝐨𝐯𝐞𝐥𝐲 𝐭𝐨 𝐬𝐞𝐞 𝐲𝐨𝐮! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" width="34x" align="top">
+<!-- # 𝐇𝐢, 𝐥𝐨𝐯𝐞𝐥𝐲 𝐭𝐨 𝐬𝐞𝐞 𝐲𝐨𝐮! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/source.gif" width="34x" align="top"> -->
 
 <a href="https://github.com/kulinichevgeny">
   	<img align="right" alt="GIF" src="code.gif" width="auto" height="320px" />
